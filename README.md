@@ -25,7 +25,7 @@ If you’d like to run or modify this portfolio locally:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/Anarv2104/Anarv-s-Portfolio.git
+git clone [https://github.com/Anarv2104/My-Portfolio.git](https://github.com/Anarv2104/My-Portfolio)
 ```
 
 **2. Install dependencies**
