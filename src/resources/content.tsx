@@ -91,7 +91,7 @@ const about: About = {
   },
   calendar: {
     display: true,
-    link: "https://drive.google.com/file/d/1exi9ki7V_aD0yCrHEHaxUIDAtAIaBZZX/view?usp=drive_link",
+    link: "https://drive.google.com/file/d/1xb11Grwc8vumfoiYi9bRcT32n_vQI0hQ/view?usp=drive_link",
   },
   intro: {
     display: true,
